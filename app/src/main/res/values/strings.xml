@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">나드리</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- AddUserActivity -->
+    <!-- CollectMydataActivity -->
+
+    <!-- MainActivity -->
+    <string name="menu_modify_mydata">여행 취향 수정하기</string>
+    <string name="menu_end_service">회원 탈퇴</string>
+    <string name="menu_QR">QR 체크인</string>
+    <string name="menu_destinations_visited">방문했던 여행지</string>
+    <string name="menu_bookmark">찜 관리</string>
+
+    <string name="menu_setting">서비스 설정</string>
+    <string name="menu_error_report">앱 오류 신고</string>
+    <string name="menu_logout">로그아웃</string>
+
+
+    <!-- ProcessingMyDataActivity -->
+    <!-- RecommendTravelActivity -->
+    <!-- SelectLocActivity -->
+
+    <!-- MyData0Fragment -->
+
+
+
+</resources>

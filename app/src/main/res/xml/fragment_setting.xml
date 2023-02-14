@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="설정">
+
+        <EditTextPreference
+            app:key="modify_nickname"
+            app:title="닉네임 수정"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="modify_email"
+            app:title="이메일 수정"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="알림">
+
+        <SwitchPreferenceCompat
+            app:key="set_alarm"
+            app:title="알림 설정" />
+
+        <SwitchPreferenceCompat
+            app:key="agree_marketing"
+            app:title="마케팅 수신 동의" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

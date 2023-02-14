@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_Top_Start">100dp</dimen>
+    <dimen name="margin_Bottom_Start">100dp</dimen>
+    <dimen name="margin_Left_Start">300dp</dimen>
+    <dimen name="margin_Right_Start">300dp</dimen>
+    <dimen name="margin_Left_Socket">200dp</dimen>
+    <dimen name="margin_Right_Socket">200dp</dimen>
+    <dimen name="margin_Left_Cloud">150dp</dimen>
+    <dimen name="margin_Right_Cloud">150dp</dimen>
+    <dimen name="margin_Left_Setting_Cloud">150dp</dimen>
+    <dimen name="margin_Right_Setting_Cloud">150dp</dimen>
+
+    <dimen name="textSize_data_ko_min">10sp</dimen>
+    <dimen name="textSize_data_ko_max">80sp</dimen>
+    <dimen name="textSize_data_min">10sp</dimen>
+    <dimen name="textSize_data_max">500sp</dimen>
+    <dimen name="textSize_data_unit_min">10sp</dimen>
+    <dimen name="textSize_data_unit_max">80sp</dimen>
+
+    <dimen name="RefreshButtonHeight">100dp</dimen>
+
+    <dimen name="deviceLocationTextSize">60sp</dimen>
+</resources>
